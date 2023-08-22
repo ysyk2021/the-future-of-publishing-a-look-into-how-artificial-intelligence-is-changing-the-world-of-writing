@@ -1,5 +1,4 @@
-Ensuring Writing Consistency and Accuracy with AI-Enabled Fact Checking and Citation Validation
-=======================================================================================================================================================================
+
 
 Editing and proofreading are essential components of the writing and publishing process, ensuring that written content is accurate, consistent, and error-free. Artificial intelligence (AI) technology has the potential to enhance these processes by enabling automated fact checking and citation validation.
 

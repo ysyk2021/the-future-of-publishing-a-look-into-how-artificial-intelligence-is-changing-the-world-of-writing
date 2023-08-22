@@ -1,5 +1,4 @@
-Different Types of AI Techniques and Platforms for Authoring, Editing, and Publishing
-========================================================================================================================================================
+
 
 Artificial intelligence (AI) technology is rapidly transforming the world of writing and publishing. In this chapter, we will explore different types of AI techniques and platforms for authoring, editing, and publishing.
 

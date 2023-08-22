@@ -1,4 +1,4 @@
-# The Role of AI in Revolutionizing the Writing and Publishing Landscape
+
 
 ## Introduction
 

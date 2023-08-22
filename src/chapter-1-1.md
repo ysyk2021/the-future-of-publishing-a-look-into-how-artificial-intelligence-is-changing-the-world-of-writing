@@ -1,4 +1,4 @@
-# The State of Publishing Industry and the Need for Innovations
+
 
 ## Introduction
 
