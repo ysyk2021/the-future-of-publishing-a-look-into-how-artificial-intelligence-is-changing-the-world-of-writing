@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology is rapidly transforming the world of writing and publishing. In this chapter, we will explore different types of AI techniques and platforms for authoring, editing, and publishing.
 
 Grammar and Syntax Checking
