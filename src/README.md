@@ -1,5 +1,4 @@
 
-
 The publishing industry has undergone a significant transformation in recent years, and it's all thanks to one thing: artificial intelligence. AI has brought about unprecedented changes in the world of writing and publishing, changing the way we create, distribute, and market books.
 
 In this book, we'll take a deep dive into the world of AI-powered publishing. We'll explore the latest trends in digital publishing, machine learning, natural language generation, and much more.
