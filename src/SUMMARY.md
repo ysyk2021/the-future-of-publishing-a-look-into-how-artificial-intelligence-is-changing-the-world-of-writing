@@ -31,3 +31,4 @@
   - [Challenges and Risks of AI Adoption in Writing and Publishing and How to Overcome Them](chapter-8-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

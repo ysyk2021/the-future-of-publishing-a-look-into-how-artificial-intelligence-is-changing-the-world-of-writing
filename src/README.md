@@ -10,3 +10,7 @@ But while AI brings many benefits to the world of publishing, there are also pot
 Overall, this book offers a comprehensive look at the future of publishing in the age of artificial intelligence. Whether you're an author, publisher, or simply someone interested in the latest innovations in the publishing industry, this book is a must-read.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
