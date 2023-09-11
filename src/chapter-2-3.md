@@ -1,5 +1,4 @@
-Chapter 5: Tools and Software for AI-Enabled Writing and Publishing Workflow and Performance Tracking
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving world of writing and publishing, the integration of artificial intelligence has transformed traditional processes. This chapter explores the cutting-edge tools and software available to writers, publishers, and content creators for enhancing their workflow and effectively tracking performance in the age of AI.
 

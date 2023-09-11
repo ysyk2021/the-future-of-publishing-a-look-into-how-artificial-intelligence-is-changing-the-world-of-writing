@@ -1,5 +1,4 @@
-Chapter: Ensuring Writing Consistency and Accuracy with AI-Enabled Fact Checking and Citation Validation
-========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) can ensure writing consistency and accuracy through fact checking and citation validation. AI-powered tools provide efficient and reliable methods to verify facts, validate sources, and enhance the credibility of written content. This chapter delves into the various ways AI can be leveraged to support writers and publishers in maintaining accuracy and consistency in their work.
 

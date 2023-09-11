@@ -1,5 +1,4 @@
-Chapter: Enhancing Article and Manuscript Development with AI-Enabled Structure and Flow Analysis
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) can enhance the development of articles and manuscripts through structure and flow analysis. AI-powered tools provide valuable insights into the organization, coherence, and readability of written content. This chapter delves into the various ways AI can be leveraged to support writers and publishers in optimizing the structure and flow of their articles and manuscripts.
 

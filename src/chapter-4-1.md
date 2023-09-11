@@ -1,5 +1,4 @@
-Chapter: Streamlining Editing and Proofreading Workflow with AI-enabled Automated Feedback and Corrections
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) is revolutionizing the editing and proofreading process in the world of writing and publishing. With AI-enabled automated feedback and corrections, writers and editors can streamline their workflow, improve the accuracy of their content, and enhance the overall quality of their work. This chapter delves into the various ways AI can be leveraged to optimize the editing and proofreading process, making it more efficient and effective.
 

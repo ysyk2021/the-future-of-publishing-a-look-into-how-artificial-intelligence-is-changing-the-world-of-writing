@@ -1,5 +1,4 @@
-Chapter: Improving Writing Quality and Style with AI-Enabled Grammar and Syntax Checking
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) can enhance writing quality and style through AI-enabled grammar and syntax checking tools. As AI continues to revolutionize the world of writing and publishing, these advanced tools offer invaluable assistance in identifying and correcting grammatical errors, improving sentence structure, and enhancing overall writing style. This chapter delves into the various ways AI can be leveraged to improve writing quality and style, ultimately transforming the landscape of writing and publishing.
 

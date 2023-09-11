@@ -1,5 +1,4 @@
-Chapter 6: Challenges and Risks of AI Adoption in Writing and Publishing and How to Overcome Them
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence reshapes the landscape of writing and publishing, it brings forth a set of challenges and risks that writers, publishers, and content creators must navigate. In this chapter, we will explore these challenges and provide strategies for overcoming them to harness the full potential of AI in the industry.
 
